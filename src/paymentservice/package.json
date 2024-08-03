@@ -29,7 +29,7 @@
     "@opentelemetry/resource-detector-container": "0.3.9",
     "@opentelemetry/resource-detector-gcp": "0.29.9",
     "grpc-js-health-check": "1.1.0",
-    "pino": "8.16.1",
+    "pino": "9.2.0",
     "simple-card-validator": "1.1.0",
     "uuid": "9.0.1"
   }
